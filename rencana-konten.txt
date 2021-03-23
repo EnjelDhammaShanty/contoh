@@ -1,6 +1,7 @@
 rencana konten
 -aa lallaa
     cara membuat ikan
+    baso
 -bb lallaa
   cara membuat bebek
 -cc lallaa
